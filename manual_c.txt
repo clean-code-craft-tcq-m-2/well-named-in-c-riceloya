@@ -1,0 +1,26 @@
+///////////////////25 COLOR CODE MANUAL///////////////////
+Pair Number:  0 Major color:  0 White || Minor color:   0 Blue
+Pair Number:  1 Major color:  0 White || Minor color:   1 Orange
+Pair Number:  2 Major color:  0 White || Minor color:   2 Green
+Pair Number:  3 Major color:  0 White || Minor color:   3 Brown
+Pair Number:  4 Major color:  0 White || Minor color:   4 Slate
+Pair Number:  5 Major color:  1 Red || Minor color:   0 Blue
+Pair Number:  6 Major color:  1 Red || Minor color:   1 Orange
+Pair Number:  7 Major color:  1 Red || Minor color:   2 Green
+Pair Number:  8 Major color:  1 Red || Minor color:   3 Brown
+Pair Number:  9 Major color:  1 Red || Minor color:   4 Slate
+Pair Number:  10 Major color:  2 Black || Minor color:   0 Blue
+Pair Number:  11 Major color:  2 Black || Minor color:   1 Orange
+Pair Number:  12 Major color:  2 Black || Minor color:   2 Green
+Pair Number:  13 Major color:  2 Black || Minor color:   3 Brown
+Pair Number:  14 Major color:  2 Black || Minor color:   4 Slate
+Pair Number:  15 Major color:  3 Yellow || Minor color:   0 Blue
+Pair Number:  16 Major color:  3 Yellow || Minor color:   1 Orange
+Pair Number:  17 Major color:  3 Yellow || Minor color:   2 Green
+Pair Number:  18 Major color:  3 Yellow || Minor color:   3 Brown
+Pair Number:  19 Major color:  3 Yellow || Minor color:   4 Slate
+Pair Number:  20 Major color:  4 Violet || Minor color:   0 Blue
+Pair Number:  21 Major color:  4 Violet || Minor color:   1 Orange
+Pair Number:  22 Major color:  4 Violet || Minor color:   2 Green
+Pair Number:  23 Major color:  4 Violet || Minor color:   3 Brown
+Pair Number:  24 Major color:  4 Violet || Minor color:   4 Slate
